@@ -1,4 +1,4 @@
-module udemy
+module udemyGo1
 
 go 1.18
 
